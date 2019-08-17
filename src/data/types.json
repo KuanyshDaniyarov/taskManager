@@ -1,0 +1,65 @@
+[
+  {
+    "id": "private",
+    "name": "private",
+    "icon": "ios-person",
+    "actions": [
+      {
+        "id": "all",
+        "name": "private"
+      },
+      {
+        "id": "manage",
+        "name": "create-private",
+        "icon": "md-add"
+      },
+      {
+        "id": "archive",
+        "name": "private-archive",
+        "icon": "ios-archive"
+      }
+    ]
+  },
+  {
+    "id": "command",
+    "name": "command",
+    "icon": "ios-people",
+    "actions": [
+      {
+        "id": "all",
+        "name": "command"
+      },
+      {
+        "id": "manage",
+        "name": "create-command",
+        "icon": "md-add"
+      },
+      {
+        "id": "archive",
+        "name": "command-archive",
+        "icon": "ios-archive"
+      }
+    ]
+  },
+  {
+    "id": "organization",
+    "name": "organization",
+    "icon": "ios-home",
+    "actions": [
+      {
+        "id": "all",
+        "name": "organization"
+      },
+      {
+        "id": "manage",
+        "name": "create-organization",
+        "icon": "md-add"
+      },
+      {
+        "id": "archive",
+        "name": "organization-archive",
+        "icon": "ios-archive"
+      }
+    ]
+  }
+]

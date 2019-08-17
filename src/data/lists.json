@@ -1,0 +1,22 @@
+[
+  {
+    "id": "new",
+    "title": "new",
+    "action": {
+      "id": "create",
+      "icon": "md-add"
+    }
+  },
+  {
+    "id": "in-progress",
+    "title": "in-progress"
+  },
+  {
+    "id": "on-check",
+    "title": "on-check"
+  },
+  {
+    "id": "completed",
+    "title": "completed"
+  }
+]
